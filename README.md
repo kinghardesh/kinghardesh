@@ -19,3 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=kinghardesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/kinghardesh/kinghardesh/blob/output/github-snake.svg)
+
