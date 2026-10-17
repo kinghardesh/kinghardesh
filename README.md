@@ -19,9 +19,24 @@ Parametric insurance platform for gig workers. **Led the team and built the back
 - Real-time weather and AQI triggers
 - Automated payouts with no manual claim filing
 
-### 🏘️ ROP
-Full relational DBMS for residential society management.
-- Role-based dashboards for Admin, Owner, and Resident
+### 🔐 AegisFlow
+Encrypted traffic classification using packet-flow embeddings (Samsung EnnovateX AX Hackathon 2026).
+- Three-stream encoder: Mamba layers for flow behaviour, plus FiLM conditioning on context and identity
+- 128-dim contrastive embeddings with k-NN search over FAISS
+- Built with a multi-agent pipeline over a custom MCP server
+
+### 🩺 Care Navigator Co-Pilot
+AI agent for community health workers helping uninsured patients (IBM Bob AI Builders Challenge).
+- "Insurance Lens" clinic finder that filters by cost, language, accessibility, and distance
+- Intake support and auto-generated client instructions
+
+### ⚗️ Distillation Column Surrogate
+ML surrogate models for a binary distillation column simulated in DWSIM.
+- 1,800+ simulated cases with Latin hypercube sampling
+- Model chosen per target (Random Forest, polynomial, neural net) based on extrapolation behaviour, not just test accuracy
+
+### 🔎 RAG Engine
+Retrieval-augmented generation system. Worked on result ranking and deployment.
 
 ---
 
