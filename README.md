@@ -87,9 +87,23 @@ Full relational DBMS for residential society management.
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinghardesh/kinghardesh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinghardesh/kinghardesh/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/kinghardesh/kinghardesh/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 📫 Reach Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalhardesh06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardesh-agarwal-47919233b)
+<p align="left">
+  <a href="mailto:agarwalhardesh06@gmail.com"><img src="https://img.shields.io/badge/Email-agarwalhardesh06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hardesh-agarwal-47919233b"><img src="https://img.shields.io/badge/LinkedIn-Hardesh%20Agarwal-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=kinghardesh&color=blueviolet)
+📧 agarwalhardesh06@gmail.com · 💼 [linkedin.com/in/hardesh-agarwal-47919233b](https://www.linkedin.com/in/hardesh-agarwal-47919233b)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kinghardesh.kinghardesh" alt="Profile views" />
