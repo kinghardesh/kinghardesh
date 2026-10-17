@@ -102,12 +102,12 @@ Retrieval-augmented generation system. Worked on result ranking and deployment.
 
 ---
 
-## 🐍 Contribution Snake
+## 🧱 Contribution Breakout
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinghardesh/kinghardesh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinghardesh/kinghardesh/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/kinghardesh/kinghardesh/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinghardesh/kinghardesh/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinghardesh/kinghardesh/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout game played on my contribution graph" src="https://raw.githubusercontent.com/kinghardesh/kinghardesh/github-breakout/images/breakout-light.svg" />
 </picture>
 
 ---
